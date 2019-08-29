@@ -1,0 +1,55 @@
+body{
+  font-family: Alegreya, Verdana, Geneva, sans-serif; background-color:#cce7f7;
+}
+
+.headback{
+  width: 100%; background-color: #1C6EA4;
+  color: #fff;letter-spacing: 1.2px;
+  word-spacing: 2px; padding-left: 1em;
+}
+.headback2{
+  font-weight: 700; display: flex; align-items: center;
+  justify-content: center;
+}
+#headname{
+  font-size: 4.5em;  height: 100px;
+}
+#headtitle{
+  font-size: 2em; height: 20px;
+}
+#rightbar{
+  color: white; background: #238bd0;
+font-size:15px;
+}
+#rightbar a {
+  color: yellow;
+}
+#rightbar a:hover{
+  color: #a41c6e;
+}
+
+h3{text-decoration: underline;}
+.SectionHeaders{
+   width: 98%; height: 30px;
+  background-color: #1C6EA4;
+  color: #fff;letter-spacing: 1.2px;
+  word-spacing: 2px; padding-left: 1em;
+}
+img.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.socialLinks{
+   padding: 1px 15px; font-size: 15px; display: inline-block; color: #fff;
+}
+
+.socialLinks:hover{
+  text-decoration: none;
+}
+
+#socialBox{
+  display:flex;justify-content:center; margin-top:2px;
+  width: 100%;
+}
